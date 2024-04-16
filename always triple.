@@ -1,6 +1,1 @@
-(() => {
-    const cheat = (async () => {
-        setInterval(() => Object.values((function react(r = document.querySelector("body>div")) { return Object.values(r)[1]?.children?.[0]?._owner.stateNode ? r : react(r.querySelector(":scope>div")) })())[1].children[0]._owner.stateNode.setState({ choices: [{ type: "mult", val: 3, rate: .075, blook: "Brainy Bot", text: "Triple Crypto" }] }), 25);
-    });
-       cheat(); // Directly call the cheat function without checking for updates
-})();
+(()=>{let c=document.querySelector("iframe");c.contentWindow.console.log.call(window,"%c Blooket Cheats %c\n\tBy 05Konz on GitHub","color: #0bc2cf; font-size: 3rem","color: #8000ff; font-size: 1rem"),c.contentWindow.console.log.call(window,"%c\talwaysTriple.js","color: #0bc2cf; font-size: 1rem"),c.contentWindow.console.log.call(window,"%c\tStar the github repo!%c  https://github.com/05Konz/Blooket-Cheats","color: #ffd000; font-size: 1rem","");const l=async()=>{setInterval(()=>Object.values(function t(e=document.querySelector("body>div")){return Object.values(e)[1]?.children?.[0]?._owner.stateNode?e:t(e.querySelector(":scope>div"))}())[1].children[0]._owner.stateNode.setState({choices:[{type:"mult",val:3,rate:.075,blook:"Brainy Bot",text:"Triple Crypto"}]}),25)};s();})();
